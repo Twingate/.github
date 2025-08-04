@@ -4,7 +4,7 @@ Welcome to the **Twingate** GitHub organization — home to officially supported
 
 These projects power production‑grade infrastructure automation, cloud-native deployment, CI/CD workflows, and secure access built around the Twingate Zero Trust platform.
 
-## Related Projects
+## Related Github Organizations
 
 - **[Twingate‑Solutions](https://github.com/twingate-solutions)** – Field-tested quickstarts and scripts for enterprise access deployment, built and maintained by the Customer Solutions team
 - **[Twingate‑Community](https://github.com/twingate-community)** – Community‑driven integrations, creative workflows, and homelab projects
