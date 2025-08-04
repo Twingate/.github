@@ -28,7 +28,6 @@ We recommend starting with the README in each repo to learn installation steps, 
 ## Related Projects
 
 - **[Twingate‑Solutions](https://github.com/twingate-solutions)** – Field-tested quickstarts and scripts for enterprise access deployment, built and maintained by the Customer Solutions team
-- **[Twingate‑Labs](https://github.com/twingate-labs)** – Experimental bots, CLI tools, demos, and integration ideas, built and maintained by the Labs team
 - **[Twingate‑Community](https://github.com/twingate-community)** – Community‑driven integrations, creative workflows, and homelab projects
 
 ## 🤝 Contributing
