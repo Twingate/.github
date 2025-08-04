@@ -33,5 +33,3 @@ We recommend starting with the README in each repo to learn installation steps, 
 ## 🤝 Contributing
 
 Everything here is open-source and community-welcoming. Found a bug? Wrote an improvement or a new integration? Feel free to open an issue or submit a PR—your contributions are always appreciated!
-
-> Built with trust, collaboration, and a passion for making secure access simple and scalable 🔐
